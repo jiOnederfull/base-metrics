@@ -17,7 +17,7 @@ curl localhost:5000/metrics
 
 
 
-
+---
 
 ```
 docker build --platform linux/amd64 -t jionederfull/base-metrics:0.1 ./
